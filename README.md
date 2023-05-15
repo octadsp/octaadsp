@@ -32,12 +32,6 @@ I like to learn new things to develop myself, especially those related to the wo
 
 #### Coding Stats
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Octaadsp's github stats](https://github-readme-stats.vercel.app/api?username=octadsp&count_private=true&theme=tokyonight&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octadsp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
