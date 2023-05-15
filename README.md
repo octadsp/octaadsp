@@ -17,15 +17,15 @@
 
 
 
-#### My Works
-- 📎[My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+<!-- #### My Works
+- 📎[My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 
-<details>
-<summary>
+<!-- <details> -->
+<!-- <summary>
   More stuff about me
-</summary>
+</summary> -->
 
-<br >
+<!-- <br > -->
 
 I like to learn new things to develop myself, especially those related to the world of technology
 
@@ -34,4 +34,4 @@ I like to learn new things to develop myself, especially those related to the wo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octadsp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+<!-- </details> -->
