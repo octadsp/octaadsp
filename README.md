@@ -13,7 +13,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Golang Badge](https://img.shields.io/badge/-Golang-19A7CE?style=for-the-badge&labelColor=black&logo=go&logoColor=19A7CE)](#) [![Flutter Badge](https://img.shields.io/badge/-Flutter-0A4D68?style=for-the-badge&labelColor=black&logo=flutter&logoColor=0A4D68)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Golang Badge](https://img.shields.io/badge/-Golang-19A7CE?style=for-the-badge&labelColor=black&logo=go&logoColor=19A7CE)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-0A4D68?style=for-the-badge&labelColor=black&logo=typescript&logoColor=0A4D68)](#)
 
 
 
